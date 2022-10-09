@@ -100,7 +100,7 @@ Copy and paste the following line into the only available cell -
 
 `!git clone https://github.com/laurenceday/Dreambooth-Ion-Cannon.git`
 
-\- and then hit `Ctrl`+`Enter`. It's going to download 4.8 GB worth of files. If you've used a datacenter, this shouldn't take more than a couple of minutes.
+\- and then hit `Ctrl`+`Enter`. It's going to download 3.52 GB worth of files. If you've used a datacenter, this shouldn't take more than a couple of minutes.
 
 Once you see the line `Checking out files: 100% (n/n), done.` you're finished here! Go back to the last tab you were in (the one you created this notebook from).
 
